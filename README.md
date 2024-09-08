@@ -1,3 +1,3 @@
-#Vephla
+#Pinterest
 
-I Cloned vephla website
+I Cloned the pinterest website
